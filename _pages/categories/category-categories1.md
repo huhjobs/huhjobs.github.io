@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "Employments"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/employments/
 author_profile: true
-taxonomy: Categories1
+taxonomy: Employments
 sidebar:
-  nav: "categories"
+  nav: "employments"
 ---
