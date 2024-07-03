@@ -1,6 +1,6 @@
 ---
 title: "[WCSE 2017] Data Mining of Influenza A: H3N8, H7N3, and H7N7"
-excerpt: "S. Han, J. Huh and T. Yoon (Proceedings of 2017 the 7th International Workshop on Computer Science and Engineering (WCSE), 2017)"
+excerpt: "S. Han, J. Huh and T. Yoon \n (Proceedings of 2017 the 7th International Workshop on Computer Science and Engineering (WCSE), 2017)"
 
 categories:
   - Categories2
