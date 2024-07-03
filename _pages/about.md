@@ -11,5 +11,5 @@ comments: false
 **Jun 2021 - Apr 2022** Student Researcher at [Seoul National University Hospital](http://www.snuh.org/global/en/main.do) ([iRAIL](http://irail.snu.ac.kr/))
 
 ## Education
-**Oct 2018 - Jul 2023** MMath in Mathematics & Statistics (Brasenose College, [University of Oxford](https://www.ox.ac.uk/))
+**Oct 2018 - Jul 2023** MMath in Mathematics & Statistics at the [University of Oxford](https://www.ox.ac.uk/)(Brasenose College)
 
