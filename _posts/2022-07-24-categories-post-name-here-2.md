@@ -1,19 +1,19 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[WCSE 2017] Data Mining of Influenza A: H3N8, H7N3, and H7N7"
+excerpt: "S. Han, J. Huh and T. Yoon (Proceedings of 2017 the 7th International Workshop on Computer Science and Engineering (WCSE), 2017)"
 
 categories:
   - Categories2
 tags:
-  - [tag1, tag2]
+  - [Bioinformatics, Machine Learning]
 
-permalink: /categories2/post-name-here-2/
+permalink: /Publications/Paper_InfluenzaA/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2017-12-31
+last_modified_at: 2024-07-03
 ---
 
 ## 🦥 본문
