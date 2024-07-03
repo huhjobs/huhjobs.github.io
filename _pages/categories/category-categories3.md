@@ -1,9 +1,9 @@
 ---
-title: "Categories3"
+title: "Publications"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/publications/
 author_profile: true
-taxonomy: Categories3
+taxonomy: Publications
 sidebar:
-  nav: "categories"
+  nav: "publications"
 ---
