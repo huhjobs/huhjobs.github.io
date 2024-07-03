@@ -12,7 +12,7 @@ permalink: /Publications/Paper_Bacillus/
 toc: true
 toc_sticky: true
 
-date: 2016-05-21
+date: 2016-12-31
 last_modified_at: 2024-07-03
 ---
 
