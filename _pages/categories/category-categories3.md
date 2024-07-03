@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 layout: category
-permalink: /publications/
+permalink: /categories/publications/
 author_profile: true
 taxonomy: Publications
 sidebar:
