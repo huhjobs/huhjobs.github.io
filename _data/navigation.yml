@@ -23,6 +23,8 @@ categories:
   - title: "Education"
     url: /categories/education/
   - title: "Publications"
-    url: /categories/publications/
-  # - title: "Categories4"
-  #   url: /categories/categories4/
+    children:
+      - title: "Bioinformatics"
+        url: /categories/publications/bioinformatics/
+    
+
