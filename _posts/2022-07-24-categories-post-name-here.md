@@ -3,11 +3,11 @@ title: "Data Mining and Analysis of Bacillus Virus"
 excerpt: "J. An, C. Kim, S. Moon, J. Huh and T. Yoon \n (MATEC Web of Conferences, 69, 01006, 2016)"
 
 categories:
-  - Categories1
+  - Publications
 tags:
   - [Bioinformatics, Machine Learning]
 
-permalink: /publications/Paper_Bacillus/
+permalink: /categories/publications/Paper_Bacillus/
 
 toc: true
 toc_sticky: true
