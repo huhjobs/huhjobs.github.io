@@ -1,19 +1,19 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "Data Mining and Analysis of Bacillus Virus"
+excerpt: "J. An, C. Kim, S. Moon, J. Huh and T. Yoon (MATEC Web of Conferences, 69, 01006, 2016)"
 
 categories:
   - Categories1
 tags:
-  - [tag1, tag2]
+  - [Bioinformatics, Machine Learning]
 
-permalink: /categories1/post-name-here/
+permalink: /categories1/Paper_Bacillus/
 
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2016-05-21
+last_modified_at: 2024-07-03
 ---
 
 ## 🦥 본문
