@@ -1,5 +1,5 @@
 ---
-title: "Data Mining and Analysis of Bacillus Virus"
+title: "[ICCPE] Data Mining and Analysis of Bacillus Virus"
 excerpt: "J. An, C. Kim, S. Moon, J. Huh and T. Yoon \n (MATEC Web of Conferences, 69, 01006, 2016)"
 
 categories:
