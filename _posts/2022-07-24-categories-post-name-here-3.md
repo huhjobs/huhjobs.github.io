@@ -1,6 +1,6 @@
 ---
 title: "[BMC Research Notes] Data Mining of Coronavirus: SARS-CoV-2, SARS-CoV and MERS-CoV"
-excerpt: "J. E. Huh, S. H. Han, and T. S. Yoon"
+excerpt: "J. E. Huh, S. Han, and T. Yoon"
 
 categories:
   - Publications
