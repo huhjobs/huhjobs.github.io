@@ -7,7 +7,7 @@ categories:
 tags:
   - [Bioinformatics, Machine Learning]
 
-permalink: /publications/Paper_InfluenzaA/
+permalink: /publications/paper_influenza_a/
 
 toc: true
 toc_sticky: true
