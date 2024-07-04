@@ -1,19 +1,19 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[BMC Research Notes] Data Mining of Coronavirus: SARS-CoV-2, SARS-CoV and MERS-CoV"
+excerpt: "J. E. Huh, S. H. Han, and T. S. Yoon"
 
 categories:
-  - Categories3
+  - Publications
 tags:
-  - [tag1, tag2]
+  - [Bioinformatics, Machine Learning]
 
-permalink: /categories3/post-name-here-3/
+permalink: /categories3/paper_coronavirus/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2021-04-21
+last_modified_at: 2024-07-04
 ---
 
 ## 🦥 본문
