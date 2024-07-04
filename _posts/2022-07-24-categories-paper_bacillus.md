@@ -7,7 +7,7 @@ categories:
 tags:
   - [Bioinformatics, Machine Learning]
 
-permalink: /categories/publications/Paper_Bacillus/
+permalink: /categories/publications/paper_bacillus/
 
 toc: true
 toc_sticky: true
